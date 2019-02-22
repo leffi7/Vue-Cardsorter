@@ -1,7 +1,6 @@
 # Cardsort
-Cardsorting systeem op basis van Vue waarbij een gebruiker dmv drag & drop zelf items in een bepaalde volgorde kan slepen.
-Daarnaast kan de gebruiker ook zelf items toevoegen en naar een bepaalde positie slepen. Enkel de zelf eengemaakte kaartjes kunnen verwijderd worden
-aan de hand van een sluitbutton (X).
+Cardsorting systeem op basis van Vue waarbij een gebruiker dmv drag & drop items in een bepaalde volgorde kan slepen.
+Daarnaast kan de gebruiker ook zelf items toevoegen en naar een bepaalde positie slepen. Die zelf aangemaakte kaartjes kunnen ook verwijderd worden aan de hand van een sluitbutton (X).
 
 Opmerking: store.js en router.js worden niet gebruikt. Zijn default instellingen van `vue ui`
 
